@@ -1,17 +1,19 @@
 <h1 align="center"> 👋 Hi, I'm Anas! </h1>
 
 <!-- - 🦊 I'm working at -->
-- 🏡 Based in Istanbul, Turkey
+- 🏡 Based in Istanbul, Turkey.
   
-- 🌱 I’m currently learning about **Microservices, and Leadership**
+- 🌱 I’m currently learning about **Microservices, and Leadership**.
 
 <!-- - 💬 Ask me about ** -->
 
 <!-- - 🖋️ From time to time I blog at https://ammar.codes/ -->
 
-- 📄 More work related details on LinkedIn [https://www.linkedin.com/in/anasmhaish/](https://www.linkedin.com/in/anasmhaish/)
+- 📄 More work-related details on LinkedIn [https://www.linkedin.com/in/anasmhaish/](https://www.linkedin.com/in/anasmhaish/).
 
-- 🤾‍♂️ Hobbies: 🎾Tennis, 🏓Ping pong, ♟️Chess
+- 🧑‍🎓 I hold a Master of Science degree from Istanbul Technical University (İTÜ).
+
+- 🤾‍♂️ Hobbies: 🎾Tennis, 🏓Ping pong, ♟️Chess.
 ---
 
 💠<b> Keeping Sharp </b>
