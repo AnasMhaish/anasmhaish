@@ -1,5 +1,11 @@
-<h1 align="center"> 👋 Hi, I'm Anas! </h1>
+<div align="center">
+  <h1> 👋 Hi, I'm Anas! </h1>
 
+  [![Linkedin: anasmhaish](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasmhaish/)
+  [![ResearchGate: anasmhaish](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anas-Mhaish)
+</div>
+
+---
 <!-- - 🦊 I'm working at -->
 - 🏡 Based in Istanbul, Turkey.
   
@@ -9,7 +15,7 @@
 
 <!-- - 🖋️ From time to time I blog at https://ammar.codes/ -->
 
-- 📄 More work-related details on LinkedIn [https://www.linkedin.com/in/anasmhaish/](https://www.linkedin.com/in/anasmhaish/).
+- 📄 Showcases of projects I've worked on LinkedIn at [https://www.linkedin.com/in/anasmhaish/](https://www.linkedin.com/in/anasmhaish/).
 
 - 🧑‍🎓 I hold a Master of Science degree from Istanbul Technical University (İTÜ).
 
@@ -19,6 +25,10 @@
 💠<b> Keeping Sharp </b>
 
 [![Codewars: AnasMhaish](https://www.codewars.com/users/AnasMhaish/badges/large)](https://www.codewars.com/users/AnasMhaish)
+
+<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/anasmhaish?ext=contest)](https://leetcode.com/anasmhaish)-->
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmhaish)](https://github.com/anasmhaish/github-readme-stats)-->
 
 ---
 
@@ -52,8 +62,7 @@
 
 🧑‍🤝‍🧑 SOCIAL
 
-[![Linkedin: anasmhaish](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasmhaish/)
-[![ResearchGate: anasmhaish](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Anas-Mhaish)
+
 <!--
 **AnasMhaish/anasmhaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
