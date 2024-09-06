@@ -26,7 +26,7 @@
 
 [![Codewars: AnasMhaish](https://www.codewars.com/users/AnasMhaish/badges/large)](https://www.codewars.com/users/AnasMhaish)
 
-<!--[![Leetcode Stats](https://leetcard.jacoblin.cool/anasmhaish?ext=contest)](https://leetcode.com/anasmhaish)-->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/anasmhaish?ext=contest)](https://leetcode.com/anasmhaish)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasmhaish)](https://github.com/anasmhaish/github-readme-stats)-->
 
@@ -60,7 +60,7 @@
   
 ---
 
-🧑‍🤝‍🧑 SOCIAL
+<!--🧑‍🤝‍🧑 SOCIAL-->
 
 
 <!--
